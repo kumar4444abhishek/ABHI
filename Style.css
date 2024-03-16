@@ -1,0 +1,32 @@
+body{
+    background-color: antiquewhite;
+}
+h1{
+    background-color: brown;
+}
+#poll{
+    color: rgb(46, 171, 69);
+}
+
+h1{
+    width: auto;
+}
+.abhi{
+    font-size: 28px;
+    background-color: blueviolet;
+    width: 400px;
+}
+#kr{
+    font-size: 28px;
+}
+.box input{
+border-color: rgb(189, 111, 59);
+border-width: 4px;
+
+}
+.box{
+width: 200px;
+}
+a{
+    text-decoration: none;
+}
